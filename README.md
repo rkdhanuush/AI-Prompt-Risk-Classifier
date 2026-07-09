@@ -29,8 +29,8 @@ This project demonstrates basic AI safety concepts, prompt analysis, risk classi
 
 ## 🚀 Live Demo
 
-**GitHub Pages:**  
-https://rkdhanuush.github.io/AI-Prompt-Safety-Analyzer/
+GitHub Pages:
+https://rkdhanuush.github.io/AI-Prompt-Risk-Classifier/
 
 ---
 
