@@ -146,7 +146,7 @@ GitHub:
 https://github.com/rkdhanuush
 
 Portfolio:
-https://YOUR_USERNAME.github.io/rkdhanuush
+https://rkdhanuush.github.io/rkdhanuush
 
 ---
 
