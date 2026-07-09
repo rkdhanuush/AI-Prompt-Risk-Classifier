@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>AI Prompt Risk Classifier</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🤖 AI Prompt Risk Classifier</h1>
+
+<p class="subtitle">
+Analyze prompts and estimate whether they are Safe, Sensitive or Harmful.
+</p>
+
+<textarea
+id="prompt"
+placeholder="Enter your prompt here..."></textarea>
+
+<button onclick="analyzePrompt()">
+Analyze Prompt
+</button>
+
+<div id="result" class="result">
+
+<h2>Risk Analysis</h2>
+
+<p id="risk">-</p>
+
+<p id="reason"></p>
+
+<br>
+
+<div class="meter">
+
+<div id="progressBar"></div>
+
+<hr>
+
+<div class="history">
+
+    <h2>📜 Recent Prompt History</h2>
+
+    <ul id="historyList"></ul>
+
+</div>
+
+</div>
+
+<p id="percentage">0% Risk</p>
+<div class="tips">
+
+<h3>AI Safety Tips 💡</h3>
+
+<p id="tipsText">
+
+Always avoid sharing passwords,
+personal information,
+or requesting harmful instructions.
+
+</p>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
