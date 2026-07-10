@@ -32,6 +32,10 @@ This project demonstrates basic AI safety concepts, prompt analysis, risk classi
 GitHub Pages:
 https://rkdhanuush.github.io/AI-Prompt-Risk-Classifier/
 
+Netlify Link : bespoke-tapioca-a95069.netlify.app
+
+Live Demo is Here Now ⬆⬆⬆
+
 ---
 
 ## 📸 Screenshots
